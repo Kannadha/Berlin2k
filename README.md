@@ -53,7 +53,7 @@
 ## 🔗Deploy
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/God2020k/Samantha">
+<a href="https://heroku.com/deploy?template=https://github.com/Kannadha/Berlin2k">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
